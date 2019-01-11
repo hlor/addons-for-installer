@@ -1,0 +1,2 @@
+# addons-for-installer
+DO NOT DOWNLOAD DIRECTLY. USE HLOR INSTALLER.
